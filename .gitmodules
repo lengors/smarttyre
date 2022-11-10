@@ -1,0 +1,12 @@
+[submodule "smarttyre-django"]
+	path = smarttyre-django
+	url = https://github.com/lengors/smarttyre-django
+[submodule "smarttyre-angular"]
+	path = smarttyre-angular
+	url = https://github.com/lengors/smarttyre-angular
+[submodule "crawlers"]
+	path = crawlers
+	url = https://github.com/lengors/crawlers
+[submodule "cutils"]
+	path = cutils
+	url = https://github.com/lengors/cutils
