@@ -2,7 +2,7 @@
 This is a simple repository that submodules' the multiple modules used in this project and contains a couple of pictures with the general appearence of the app.
 
 ## Running website
-https://smarttyre.herokuapp.com/
+https://smarttyre.ddns.net/
 
 ## Appearence
 ![Login menu](/assets/pictures/login_menu.png?raw=true "Login menu")
